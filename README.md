@@ -6,6 +6,9 @@ Wordle bot leaderboard —
 remake of Wordbase, a discontinued word game —
 [<img align="left" src="https://wordbase.app/raw/wordbase/favicon.png" width="24">wordbase.app](https://wordbase.app)  
 
+sync follows from Twitter to Mastodon —
+[<img align="left" src="https://freshman.dev/icon.png" width="24">freshman.dev/follow-sync](https://freshman.dev/follow-sync) 
+
 _for now these are embedded within my personal website, which is a private repo_  
 
 misc:  
