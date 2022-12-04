@@ -1,10 +1,10 @@
 of note:  
 
-Wordle bot leaderboard —
-[<img align="left" src="https://freshman.dev/icon.png" width="24">freshman.dev/wordle/leaderboard](https://freshman.dev/wordle/leaderboard)  
-
 remake of Wordbase, a discontinued word game —
 [<img align="left" src="https://wordbase.app/raw/wordbase/favicon.png" width="24">wordbase.app](https://wordbase.app)  
+
+Wordle bot leaderboard —
+[<img align="left" src="https://freshman.dev/icon.png" width="24">freshman.dev/wordle/leaderboard](https://freshman.dev/wordle/leaderboard)  
 
 sync follows from Twitter to Mastodon —
 [<img align="left" src="https://freshman.dev/icon.png" width="24">freshman.dev/follow-sync](https://freshman.dev/follow-sync) 
