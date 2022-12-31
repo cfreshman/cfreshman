@@ -9,7 +9,7 @@ Wordle bot leaderboard —
 sync follows from Twitter to Mastodon —
 [<img align="left" src="https://freshman.dev/icon.png" width="24">freshman.dev/follow-sync](https://freshman.dev/follow-sync) 
 
-_for now these are embedded within my personal website, which is a private repo_  
+_for now these are embedded within my personal website, which is a private repo - but you can always view-source_  
 
 misc:  
 •&nbsp; [path planning demo](https://freshman.dev/raw/paths)  
