@@ -12,9 +12,9 @@ sync follows from Twitter to Mastodon —
 _for now these are embedded within my personal website, which is a private repo - but you can always view-source_  
 
 misc:  
-•&nbsp; [path planning demo](https://freshman.dev/raw/paths)  
-•&nbsp; [bloom filter demo](https://freshman.dev/raw/bloom)  
-•&nbsp; [nonogram solver](https://freshman.dev/raw/nonogram)  
+•&nbsp; [path planning demo](https://paths.freshman.dev)  
+•&nbsp; [bloom filter demo](https://bloom.freshman.dev)  
+•&nbsp; [nonogram solver](https://nonogram.freshman.dev)  
 
 <!--
 Hi there 👋
