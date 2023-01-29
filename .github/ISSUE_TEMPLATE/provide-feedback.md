@@ -1,5 +1,5 @@
 ---
-name: Provide Feedback
+name: Provide feedback
 about: Provide feedback on freshman.dev / wordbase.app
 title: ''
 labels: feedback
