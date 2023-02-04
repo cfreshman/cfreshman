@@ -15,7 +15,7 @@ discover Raspberry Pi Pico apps —
 Dinder —
 [<img align="left" src="https://freshman.dev/raw/dinder/icon.png" width="24">dinder.freshman.dev](https://dinder.freshman.dev)  
 
-_for now these are embedded within my personal website, which is a private repo - but you can always view-source_  
+_for now these are embedded within my personal website, which is a private repo_  
 
 misc:  
 •&nbsp; [path planning demo](https://paths.freshman.dev)  
