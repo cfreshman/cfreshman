@@ -6,7 +6,7 @@ remake of Wordbase, discontinued multiplayer word game —
 Wordle solver leaderboard —
 [<img align="left" src="https://freshman.dev/icon.png" width="24">freshman.dev/wordle/leaderboard](https://freshman.dev/wordle/leaderboard)  
 
-sync follows from Twitter to Mastodon —
+sync follows from Twitter to Mastodon (breaks on 2022-02-09) —
 [<img align="left" src="https://freshman.dev/raw/follow-sync/icon.png" width="24">follow-sync.freshman.dev](https://follow-sync.freshman.dev)  
 
 discover Raspberry Pi Pico apps —
