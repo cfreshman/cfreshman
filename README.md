@@ -3,7 +3,7 @@ of note:
 remake of Wordbase, discontinued multiplayer word game —
 [<img align="left" src="https://wordbase.app/raw/wordbase/favicon.png" width="24">wordbase.app](https://wordbase.app)  
 
-Wordle bot leaderboard —
+Wordle solver leaderboard —
 [<img align="left" src="https://freshman.dev/icon.png" width="24">freshman.dev/wordle/leaderboard](https://freshman.dev/wordle/leaderboard)  
 
 sync follows from Twitter to Mastodon —
