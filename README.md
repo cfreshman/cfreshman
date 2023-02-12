@@ -1,5 +1,3 @@
-of note:  
-
 remake of Wordbase, discontinued multiplayer word game —
 [<img align="left" src="https://wordbase.app/raw/wordbase/favicon.png" width="24">wordbase.app](https://wordbase.app)  
 
