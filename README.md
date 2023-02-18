@@ -4,14 +4,14 @@ remake of Wordbase, discontinued multiplayer word game —
 Wordle solver leaderboard —
 [<img align="left" src="https://freshman.dev/icon.png" width="24">freshman.dev/wordle/leaderboard](https://freshman.dev/wordle/leaderboard)  
 
-sync follows from Twitter to Mastodon (breaks on 2022-02-09) —
-[<img align="left" src="https://freshman.dev/raw/follow-sync/icon.png" width="24">follow-sync.freshman.dev](https://follow-sync.freshman.dev)  
-
 discover Raspberry Pi Pico apps —
-[<img align="left" src="https://freshman.dev/raw/pico-repo/icon.png" width="24">pico-repo.freshman.dev](https://pico-repo.freshman.dev)  
+[<img align="left" src="https://freshman.dev/raw/pico-repo/icon.png" width="24">pico-repo.com](https://pico-repo.com)  
 
 Dinder —
-[<img align="left" src="https://freshman.dev/raw/dinder/icon.png" width="24">dinder.freshman.dev](https://dinder.freshman.dev)  
+[<img align="left" src="https://freshman.dev/raw/dinder/icon.png" width="24">dinder.social](https://dinder.social) 
+
+sync follows from Twitter to Mastodon (breaks on 2022-02-09) —
+[<img align="left" src="https://freshman.dev/raw/follow-sync/icon.png" width="24">follow-sync.freshman.dev](https://follow-sync.freshman.dev)   
 
 _for now these are embedded within my personal website, which is a private repo_  
 
