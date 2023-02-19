@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: Report an issue with freshman.dev / wordbase.app / dinder.social / pico-repi.com
+about: Report an issue with freshman.dev / wordbase.app / dinder.social / pico-repo.com
 title: ''
-labels: bug
+labels: bug, feedback
 assignees: cfreshman
 
 ---
