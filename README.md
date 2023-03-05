@@ -1,19 +1,20 @@
-remake of Wordbase, discontinued multiplayer word game —
-[<img align="left" src="https://wordbase.app/raw/wordbase/favicon.png" width="24">wordbase.app](https://wordbase.app)  
-
-Wordle solver leaderboard —
-[<img align="left" src="https://freshman.dev/icon.png" width="24">freshman.dev/wordle/leaderboard](https://freshman.dev/wordle/leaderboard)  
-
-discover Raspberry Pi Pico apps —
-[<img align="left" src="https://freshman.dev/raw/pico-repo/icon.png" width="24">pico-repo.com](https://pico-repo.com)  
-
-Dinder —
+Dinder -
 [<img align="left" src="https://freshman.dev/raw/dinder/icon.png" width="24">dinder.social](https://dinder.social) 
 
-sync follows from Twitter to Mastodon (breaks on 2022-02-09) —
+discover Raspberry Pi Pico apps -
+[<img align="left" src="https://freshman.dev/raw/pico-repo/icon.png" width="24">pico-repo.com](https://pico-repo.com)  
+Pico W webserver framework - [<img align="left" src="https://raw.githubusercontent.com/cfreshman/pico-fi/master/src/public/icon.png" width="24">pico-fi](https://pico-repo.com/fi) ([github.com/cfreshman/pico-fi](https://github.com/cfreshman/pico-fi))  
+
+remake of Wordbase, discontinued multiplayer word game -
+[<img align="left" src="https://wordbase.app/raw/wordbase/favicon.png" width="24">wordbase.app](https://wordbase.app)  
+
+Wordle solver leaderboard -
+[<img align="left" src="https://freshman.dev/icon.png" width="24">wordle.freshman.dev/leaderboard](https://wordle.freshman.dev/leaderboard)  
+
+sync follows from Twitter to Mastodon (breaks on 2022-02-09) -
 [<img align="left" src="https://freshman.dev/raw/follow-sync/icon.png" width="24">follow-sync.freshman.dev](https://follow-sync.freshman.dev)   
 
-_for now these are embedded within my personal website, which is a private repo_  
+_most of these are embedded within my personal website, which is a private repo_  
 
 misc:  
 •&nbsp; [path planning demo](https://paths.freshman.dev)  
