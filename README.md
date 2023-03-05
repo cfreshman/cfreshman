@@ -3,7 +3,7 @@ Dinder -
 
 discover Raspberry Pi Pico apps -
 [<img align="left" src="https://freshman.dev/raw/pico-repo/icon.png" width="24">pico-repo.com](https://pico-repo.com)  
-<img src="https://raw.githubusercontent.com/cfreshman/pico-fi/master/src/public/icon.png" width="24"> Pico W webserver framework - [pico-fi](https://pico-repo.com/fi) ([github.com/cfreshman/pico-fi](https://github.com/cfreshman/pico-fi))  
+[<img align="left" src="https://raw.githubusercontent.com/cfreshman/pico-fi/master/src/public/icon.png" width="24">](https://pico-repo.com/fi) Pico W webserver framework - [pico-fi](https://pico-repo.com/fi) ([github.com/cfreshman/pico-fi](https://github.com/cfreshman/pico-fi))  
 
 remake of Wordbase, discontinued multiplayer word game -
 [<img align="left" src="https://wordbase.app/raw/wordbase/favicon.png" width="24">wordbase.app](https://wordbase.app)  
