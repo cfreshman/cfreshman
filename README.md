@@ -4,6 +4,9 @@ remake of Wordbase, discontinued multiplayer word game -
 Dinder -
 [<img align="left" src="https://freshman.dev/raw/dinder/icon.png" width="24">dinder.social](https://dinder.social) 
 
+Crowdmeal -
+[<img align="left" src="https://freshman.dev/raw/crowdmeal/icon.png" width="24">crowdmeal.app](https://crowdmeal.app) 
+
 discover Raspberry Pi Pico apps -
 [<img align="left" src="https://freshman.dev/raw/pico-repo/icon.png" width="24">pico-repo.com](https://pico-repo.com)  
 [<img align="left" src="https://raw.githubusercontent.com/cfreshman/pico-fi/master/src/public/icon.png" width="24">](https://pico-repo.com/fi) Pico W webserver framework - [pico-fi](https://pico-repo.com/fi) (github: [cfreshman/pico-fi](https://github.com/cfreshman/pico-fi))  
