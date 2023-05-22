@@ -19,6 +19,9 @@ Wordle solver leaderboard -
 sync follows from Twitter to Mastodon (breaks on 2022-02-09) -
 [<img align="left" src="https://freshman.dev/raw/follow-sync/icon.png" width="24">follow-sync.freshman.dev](https://follow-sync.freshman.dev)   
 
+fishbowl (a party game) -
+[<img align="left" src="https://basin.fish/icon.png" width="24">basin.fish](https://basin.fish)  
+
 other:  
 •&nbsp; [path planning demo](https://paths.freshman.dev)  
 •&nbsp; [bloom filter demo](https://bloom.freshman.dev)  
