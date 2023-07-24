@@ -1,6 +1,6 @@
 ---
 name: Provide feedback
-about: ''
+about: ' '
 title: ''
 labels: feedback
 assignees: cfreshman
