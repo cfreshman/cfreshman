@@ -1,6 +1,6 @@
 ---
 name: Provide feedback
-about: Provide feedback on freshman.dev / wordbase.app / dinder.social / pico-repo.com
+about: -
 title: ''
 labels: feedback
 assignees: cfreshman
