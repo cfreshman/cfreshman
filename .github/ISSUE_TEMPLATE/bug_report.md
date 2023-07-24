@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: -
+about: '-'
 title: ''
 labels: bug, feedback
 assignees: cfreshman
