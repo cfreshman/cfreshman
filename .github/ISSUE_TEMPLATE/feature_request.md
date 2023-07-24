@@ -1,7 +1,6 @@
 ---
 name: Feature request
-about: Request or suggest an idea for freshman.dev / wordbase.app / dinder.social
-  / pico-repo.com
+about: '---'
 title: ''
 labels: request
 assignees: ''
