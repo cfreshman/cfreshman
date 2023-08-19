@@ -1,5 +1,3 @@
-_most of these are embedded within my personal website, which is a private repo_  
-
 **HIGHLIGHTS**  
 |-  
 | [<img align="center" src="https://raw.tu.fo/wordbase/icon.png" width="24">](https://wordbase.app)&nbsp; [wordbase.app](https://wordbase.app) remake of Wordbase, discontinued multiplayer word game  
@@ -7,6 +5,9 @@ _most of these are embedded within my personal website, which is a private repo_
 | [<img align="center" src="https://basin.fish/icon.png" width="24">](https://basin.fish)&nbsp; [basin.fish](https://basin.fish) fishbowl (a party game)  
 | [tu.fo/wordle/leaderboard](https://tu.fo/wordle/leaderboard)  Wordle solver leaderboard  
 
+_most of these are embedded within my personal website, which is a private repo_  
+&nbsp;  
+&nbsp;  
 **MORE**  
 [path planning demo](https://-paths.tu.fo)  
 [bloom filter demo](https://-bloom.tu.fo)  
