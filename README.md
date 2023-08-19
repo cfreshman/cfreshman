@@ -1,25 +1,22 @@
 _most of these are embedded within my personal website, which is a private repo_  
-<br />
-**highlights**  
-|  
-|— [<img align="center" src="https://raw.tu.fo/wordbase/icon.png" width="24">&nbsp; wordbase.app](https://wordbase.app)&nbsp; remake of Wordbase, discontinued multiplayer word game  
-|  
-|— [<img align="center" src="https://raw.tu.fo/dinder/icon.png" width="24">&nbsp; dinder.social](https://dinder.social)&nbsp; cook food with internet strangers  
-|  
-|— [<img align="center" src="https://basin.fish/icon.png" width="24">&nbsp; basin.fish](https://basin.fish)&nbsp; fishbowl (a party game)  
-|  
-|— [tu.fo/wordle/leaderboard](https://tu.fo/wordle/leaderboard)  Wordle solver leaderboard  
-<br />
-**other**  
+
+**HIGHLIGHTS**  
+|-  
+| [<img align="center" src="https://raw.tu.fo/wordbase/icon.png" width="24">](https://wordbase.app)&nbsp; [wordbase.app](https://wordbase.app) remake of Wordbase, discontinued multiplayer word game  
+| [<img align="center" src="https://raw.tu.fo/dinder/icon.png" width="24">](https://dinder.social)&nbsp; [dinder.social](https://dinder.social) cook food with internet strangers  
+| [<img align="center" src="https://basin.fish/icon.png" width="24">](https://basin.fish)&nbsp; [basin.fish](https://basin.fish) fishbowl (a party game)  
+| [tu.fo/wordle/leaderboard](https://tu.fo/wordle/leaderboard)  Wordle solver leaderboard  
+
+**MORE**  
 [path planning demo](https://-paths.tu.fo)  
 [bloom filter demo](https://-bloom.tu.fo)  
 [nonogram solver](https://-nonogram.tu.fo)  
-[stream.](https://stream-landing.tu.fo)  
+[stream.](https://-stream-landing.tu.fo)  
 [daily nonograms](https://no.tu.fo)  
 [wwl.js](https://raw.tu.fo/wwl/app) (web-watch-library)  
 [moon.js](https://tu.fo/lib/2/moon.js) [WIP]  
 [pico-packet](https://pico.tu.fo)  
 [spot.tu.fo](https://spot.tu.fo)  (smolify, basic/text-based Spotify client)  
-[use-f](https://use-f.tu.fo)  (React syntactic sugar)  
+[use-f](https://-use-f.tu.fo)  (React syntactic sugar)  
 [matchbox.zip](https://matchbox.zip)  
 [rèsumè](https://resume.tu.fo)  
