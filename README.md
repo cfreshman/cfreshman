@@ -16,7 +16,7 @@ _most of these are embedded within my personal website, which is a private repo_
 [daily nonograms](https://no.tu.fo)  
 [wwl.js](https://raw.tu.fo/wwl/app) (web-watch-library)  
 [moon.js](https://tu.fo/lib/2/moon.js) [WIP]  
-[pico-packet](https://pico.tu.fo) 
+[pico-packet](https://pico.tu.fo)  
 [pico-fi](https://github.com/cfreshman/pico-fi)  
 [spot.tu.fo](https://spot.tu.fo)  (smolify, basic/text-based Spotify client)  
 [use-f](https://-use-f.tu.fo)  (React syntactic sugar)  
