@@ -12,13 +12,13 @@ _most of these are embedded within my personal website, which is a private repo_
 [path planning demo](https://freshman.dev/-paths)  
 [bloom filter demo](https://freshman.dev/-bloom)  
 [nonogram solver](https://freshman.dev/-nonogram)  
-[stream.](https://freshman.dev/-stream-landing)  
+[stream.](https://freshman.dev/raw/stream-landing)  
 [daily nonograms](https://no.tu.fo)  
 [wwl.js](https://raw.tu.fo/wwl/app) (web-watch-library)  
-[moon.js](https://tu.fo/lib/2/moon.js) [WIP]  
+[moon.js](https://tu.fo/lib/2/moon/script.js) [WIP]  
 [pico-packet](https://pico.tu.fo)  
 [pico-fi](https://github.com/cfreshman/pico-fi)  
 [spot.tu.fo](https://spot.tu.fo)  (smolify, basic/text-based Spotify client)  
-[use-f](https://freshman.dev/-use-f)  (React syntactic sugar)  
+[use-f](https://freshman.dev/raw/use-f)  (React syntactic sugar)  
 [matchbox.zip](https://matchbox.zip)  
-[rèsumè](https://resume.tu.fo)  
+[rèsumè](https://tu.fo/resume)  
