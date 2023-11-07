@@ -9,16 +9,16 @@ _most of these are embedded within my personal website, which is a private repo_
 &nbsp;  
 &nbsp;  
 **MORE**  
-[path planning demo](https://paths.tu.fo/-)  
-[bloom filter demo](https://bloom.tu.fo/-)  
-[nonogram solver](https://nonogram.tu.fo/-)  
-[stream.](https://stream-landing.tu.fo/-)  
+[path planning demo](https://freshman.dev/-paths)  
+[bloom filter demo](https://freshman.dev/-bloom)  
+[nonogram solver](https://freshman.dev/-nonogram)  
+[stream.](https://freshman.dev/-stream-landing)  
 [daily nonograms](https://no.tu.fo)  
 [wwl.js](https://raw.tu.fo/wwl/app) (web-watch-library)  
 [moon.js](https://tu.fo/lib/2/moon.js) [WIP]  
 [pico-packet](https://pico.tu.fo)  
 [pico-fi](https://github.com/cfreshman/pico-fi)  
 [spot.tu.fo](https://spot.tu.fo)  (smolify, basic/text-based Spotify client)  
-[use-f](https://use-f.tu.fo/-)  (React syntactic sugar)  
+[use-f](https://freshman.dev/-use-f)  (React syntactic sugar)  
 [matchbox.zip](https://matchbox.zip)  
 [rèsumè](https://resume.tu.fo)  
