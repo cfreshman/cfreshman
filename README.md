@@ -6,7 +6,7 @@
 | [<img align="center" src="https://freshman.dev/raw/wordbase/icon.png" width="24">](https://freshman.dev/wordbase/new/kkrnlAi)&nbsp; [wordbase](https://freshman.dev/wordbase/new/kkrnlAi) web remake of Wordbase, discontinued multiplayer word game  
 | [freshman.dev/wordle/leaderboard](https://freshman.dev/wordle/leaderboard)  Wordle solver leaderboard  
 | [<img align="center" src="https://freshman.dev/raw/dinder/icon.png" width="24">](https://freshman.dev/dinder)&nbsp; [dinder](https://freshman.dev/dinder) cook food with internet strangers  
-| [<img align="center" src="https://freshman.dev/raw/fishbowl/icon.png" width="24">](https://freshman.dev/fishbowl)&nbsp; [fishbowl](https://freshman.dev/fishbowl) fishbowl (a party game)  
+| [<img align="center" src="https://freshman.dev/raw/fishbowl/icon.png" width="24">](https://freshman.dev/fishbowl)&nbsp; [fishbowl](https://freshman.dev/fishbowl) fishbowl (a party game) (BROKEN - will fix soon)  
 | [matchbox](https://freshman.dev/matchbox)  joycon car racing couch game 
 | [pico-packet](https://freshman.dev/pico-packet) starter kit for Pico W (and [pico-fi](https://github.com/cfreshman/pico-fi))    
 | [pea-rice explainer](https://freshman.dev/pea-rice-explainer) best protein powder
