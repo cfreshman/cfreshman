@@ -1,4 +1,4 @@
-TLDR:  
+TLDR  
 free web apps & more  
 enjoy? [donate me $1/mo](https://freshman.dev/1)  
 &nbsp;  
