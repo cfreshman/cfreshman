@@ -1,3 +1,7 @@
+TLDR:  
+free web apps & more  
+enjoy: [donate me $1/mo](https://freshman.dev/1)  
+&nbsp;  
 **HIGHLIGHTS**  
 |-  
 | [<img align="center" src="https://freshman.dev/raw/letterpress/icon.png" width="24">](https://freshman.dev/letterpress/new/iAVoH8qv)&nbsp; [letterpress](https://freshman.dev/letterpress/new/iAVoH8qv) web remake of Letterpress, great multiplayer word game
@@ -22,4 +26,5 @@ _most of these are embedded within my personal website, which is a private repo_
 [wwl.js](https://freshman.dev/raw/wwl/app) (web-watch-library)  
 [use-f](https://freshman.dev/raw/use-f)  (React syntactic sugar)  
 
-[rèsumè](https://freshman.dev/resume)  
+[rèsumè](https://freshman.dev/resume)
+[sponsor me! i need 8334 $1/mo donos to continue working on freshman.dev](https://freshman.dev/1)
