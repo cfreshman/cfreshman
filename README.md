@@ -1,5 +1,3 @@
-**freshman.dev is broken right now, see [cfreshman.github.io](https://cfreshman.github.io)**
-
 free web apps & more  
 enjoy? [sponsor me](https://freshman.dev/sponsor)  
 
