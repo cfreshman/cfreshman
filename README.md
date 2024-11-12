@@ -1,7 +1,6 @@
 [rèsumè](https://freshman.dev/resume)  
 
-free web apps & more @ [freshman.dev](https://freshman.dev)  
-enjoy? [sponsor me](https://freshman.dev/sponsor)  
+free web apps @ [freshman.dev](https://freshman.dev)  
 
 **HIGHLIGHTS**  
 |-  
